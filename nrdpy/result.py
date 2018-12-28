@@ -258,7 +258,7 @@ class ServiceResult(object):
 
     def _get_state_string(self):
 
-        return HostResult._state_strings[self.__dict__['state']]
+        return ServiceResult._state_strings[self.__dict__['state']]
 
     def _set_state(self, value):
 
