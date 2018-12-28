@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(
     name='nrdpy',
-    version='0.9.0',
+    version='0.9.1',
     description='A library for submitting passive checks to Nagios NRDP endpoints',
     author='Alex Forster',
     author_email='alex@alexforster.com',
